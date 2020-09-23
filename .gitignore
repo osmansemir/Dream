@@ -1,0 +1,7 @@
+node_modules
+*~
+DS_Store
+.tmp
+_layout.scss
+_utilities.scss
+_variables.scss
